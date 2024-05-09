@@ -1,0 +1,115 @@
+:root {
+	font-family: Arial, Helvetica, sans-serif;
+	line-height: 1.5;
+	font-weight: 400;
+	max-width: 400px;
+	margin: 0 auto;
+	padding: 2%;
+}
+body {
+	background-color: rgb(246, 246, 246);
+}
+a {
+	text-decoration: none;
+	color: black;
+}
+.back-btn {
+	width: max-content;
+	padding: 0 20px;
+	border: 2px solid gainsboro;
+	border-radius: 10px;
+	background-color: #414d8d;
+}
+.back-btn p {
+	color: aliceblue;
+}
+/*********************** LAYOUT PAGE */
+.layout-btn {
+	text-align: center;
+	padding: 5%;
+	margin: 2% 10%;
+	border: 2px solid grey;
+	border-radius: 10px;
+	color: aliceblue;
+	background-color: #728aff;
+	transition: all 0.2s ease-in-out;
+}
+.layout-btn:hover {
+	background-color: #414d8d;
+	cursor: pointer;
+}
+.spons-contain {
+	display: grid;
+	grid-template-columns: auto auto auto;
+	text-align: center;
+}
+.spons-contain img {
+	width: 60%;
+}
+
+/************************ AGENDA PAGE */
+
+.agenda-item {
+	display: flex;
+	border: 2px solid grey;
+	border-radius: 10px;
+	background-color: #b4c0fb;
+	padding: 2%;
+	margin: 2%;
+	transition: all 0.2s ease-in-out;
+}
+.caret {
+	margin: 20px 10px;
+}
+.agenda-item:hover {
+	background-color: #414d8d;
+	color: aliceblue;
+}
+.agenda-item:active {
+	background-color: #414d8d;
+	color: aliceblue;
+}
+
+.reveal-contain {
+	background-color: rgb(213, 233, 250);
+	border-radius: 10px;
+}
+.reveal-contain p {
+	padding: 5px 10px;
+}
+.speaker-pic-contain {
+	display: flex;
+}
+.speaker-pic-info {
+	text-align: center;
+	margin: auto;
+	padding-top: 20px;
+	border-radius: 10px;
+}
+.speaker-pic-info:hover {
+	background-color: #414d8d;
+	color: aliceblue;
+}
+.speaker-pic-info img {
+	width: 60%;
+}
+/*********************** SPEAKERS LIST PAGE */
+
+.speaker-contain {
+	padding: 1%;
+	margin: 1%;
+	border: 2px solid rgb(217, 217, 217);
+	border-radius: 10px;
+	text-align: center;
+}
+.speaker-contain img {
+	width: 200px;
+	height: 200px;
+}
+.speaker-contain:hover {
+	background-color: #414d8d;
+	color: aliceblue;
+}
+.speaker-info {
+	padding-left: 10px;
+}

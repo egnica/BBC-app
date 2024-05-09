@@ -1,0 +1,288 @@
+{
+    "key": [
+        {
+            "id": "",
+            "title": "",
+            "time": "",
+            "description": "",
+            "assets": "",
+            "speakers": [
+                {
+                    "name": "",
+                    "photo": "",
+                    "title": "",
+                    "bio": ""
+                }
+            ]
+        }
+    ],
+    "event": [
+        {
+            "id": "101",
+            "title": "Networking Breakfast",
+            "time": "7:30 am",
+            "description": "",
+            "assets": "",
+            "speakers": [
+                {
+                    "name": "",
+                    "photo": "",
+                    "company": "",
+                    "title": "",
+                    "bio": ""
+                }
+            ]
+        },
+        {
+            "id": "102",
+            "title": "Opening Introductions",
+            "time": "8:30 am",
+            "description": "Barlow's Managing Partner & COO, Youa Yang, takes the stage to welcome attendees to Columbus, provide insight into the conference topics and conference logistics.",
+            "assets": "",
+            "speakers": [
+                {
+                    "name": "",
+                    "photo": "",
+                    "title": "",
+                    "bio": ""
+                }
+            ]
+        },
+        {
+            "id": "103",
+            "title": "Access to Capital Is Just the Beginning: Huntington's Path to Nurturing Small Businesses Throughout Each Life Cycle",
+            "time": "8:45 am",
+            "description": "During this presentation we will explore the life cycle of the Small Business Relationship from start-up to expansion, servicing to sale, beginning with access to capital and focusing on the value of a trusted banking partner. We will discuss the power of “Not Yet” and the fundamentals of a good business application. Additionally, we will cover the development of a local Small Business Ecosystem and the power of strong partner organizations that align with your brand.",
+            "assets": "",
+            "speakers": [
+                {
+                    "name": "Margaret Ference",
+                    "photo": "https://www.barlowresearch.com/BusinessBankingConference_2024/images/presenters/MargaretFerence-Square.png",
+                    "company": "Huntington National Bank",
+                    "title": "Senior Vice President and the Regional Bank Director of Credit Operations & SBA",
+                    "bio": "Maggie is a Senior Vice President and the Regional Bank Director of Credit Operations & SBA for Huntington National Bank, a $183 Billion Dollar Regional Bank based out of Columbus, Ohio. With a background in financial underwriting, commercial closing and due diligence, and SBA Program Eligibility, Maggie has built a career specializing in business lending and is very active as a small business advocate in the communities that Huntington serves.<br><br> Maggie is currently serving as the regional bank’s business credit and operations director, overseeing a team of 500+ colleagues Nationwide, with a focus on making and servicing loans from $1,000 - $25 Million in size, throughout the entire small business life cycle beginning at start-up and continuing through $50 Million in revenue size. Working with start-ups on business plans, helping small businesses expand into commercial companies, finding aging owners a generational solution for the sale of their business, and even helping those customers who fall on hard times, small business lending solutions are her passion. As the Director of the SBA Lending Program at Huntington, Maggie is pleased to celebrate that for the 15th consecutive year, Huntington is the #1 SBA 7(a) lender in its now eleven-state region and was #1 in number of loans Nationally for 2023, for the 6th year in a row.<br><br> As a member of NAGGL and several small business associations, Maggie works closely with private and public segment leaders nationwide to communicate Huntington’s mission for small business. She is the business representative on the bank’s ESG (Environmental Social and Governance) Board, focusing on Huntington’s impact on our customers, colleagues, and community. Maggie is also a member of Huntington’s National Community Advisory Council, where she works with community leaders across the Midwest to drive bank policies, procedures, and philanthropy to better support the ever-changing neighborhoods where we are based. Maggie is proud to be on Huntington’s Women for Women Leadership team, focused on promoting women in the financial industry.<br><br>  Maggie earned her BSBA degree from Ohio Dominican University and is a graduate of the CBA Executive School of Banking at Furman University, SC. She was a 40 Under 40 2019 Award winner in Columbus, Ohio, where she resides in with her family. Maggie is on the Board of Directors for ECDI, the nation's most active small business CDFI. She is currently serving as the Vice President of the Development Board at Nationwide Children’s Hospital. She is a member of the City of Columbus' Small Business Ecosystem Advisory Committee and is celebrating her 11th year as a rider and fundraiser for Pelotonia, a grassroots bike tour in the fight to end cancer."
+                }
+            ]
+        },
+        {
+            "id": "104",
+            "title": "The State of Business Banking",
+            "time": "9:20 am",
+            "description": "Businesses continue to struggle with the cost of doing business and financial institutions continue to hunt for deposits. Barlow Research will explore the state of business banking in 2024, providing a look at our most recent data to pull out the most prominent trends we are seeing in the financial services market.",
+            "assets": "",
+            "speakers": [
+                {
+                    "name": "Joel Mueller",
+                    "photo": "https://www.barlowresearch.com/businessbankingconference_2024/images/presenters/JoelMueller.png",
+                    "company": "Barlow Research Associates, Inc.",
+                    "title": "Managing Partner and Research Director",
+                    "bio": "Joel is a Managing Partner and the Research Director at Barlow Research. He heads up Barlow Research's proprietary & custom research division and serves as the manager of the analyst team. He is responsible for the strategy, administration, analysis and reporting of various proprietary & custom studies. Joel specializes in both small business and middle market research and has led large-scale research initiatives in small business lending, small office/home office businesses and vertical/industry value proposition analyses. Joel graduated from University of Wisconsin-Stout, where he earned both a bachelor's degree in psychology and a master's degree in applied psychology with concentrations in evaluation research, industrial-organizational psychology and health promotion & disease prevention. In his free time, Joel enjoys woodworking, camping and spending time with his family and friends."
+                }
+            ]
+        },
+        {
+            "id": "105",
+            "title": "Investments in Technology Are Helping to Deepen Client Relationships at Citizens",
+            "time": "9:45 am",
+            "description": "Investments in technology play an important role in deepening customer relationships. This session will highlight some of the initiatives Citizens launched recently to help their customers meet their various financial goals, which in turn is helping to deepen the relationship.",
+            "assets": "",
+            "speakers": [
+                {
+                    "name": "Manny Tocco",
+                    "photo": "https://www.barlowresearch.com/BusinessBankingConference_2024/images/presenters/MannyTocco-Square.png",
+                    "company": "Citizens",
+                    "title": "COO, Head of Business Banking Strategy and Credit Operations",
+                    "bio": "Manny Tocco is currently the COO, leading Strategy, Credit Operations, and Sales Enablement for Citizens Bank’s, Business Banking Group. Manny is responsible for all of credit operations including Portfolio Management, Underwriting, Asset Quality, Innovation, and Risk Analytics. Additionally, Manny helps set course for the business line’s overarching strategy when it comes to digital capabilities to better serve, deepen, and acquire customers. Manny has reimagined how Business Banking harvests customer data to deliver real time solutions, insights, and predictive analytics. Prior to stepping into the role as COO for Business Banking he successfully led sales for a significant territory of the bank. Manny is passionate about delivering advice, thought leadership, and a differentiated digital experience to Citizen’s customers. Manny resides outside of Philadelphia with his wife and two children. You’ll find him on most weekends golfing or cheering on his children’s athletic pursuits. Additionally, Manny sits on the board of a Not-for-Profit Organization that helps mentally, physically, and/or socioeconomic challenged citizens of Philadelphia re-enter the workforce."
+                },
+                {
+                    "name": "Sandy Hanson",
+                    "photo": "https://www.barlowresearch.com/BusinessBankingConference_2023/images/presenters/SandyHanson.png",
+                    "company": "Barlow Research Associates, Inc.",
+                    "title": "Managing Partner, Treasurer and Small Business Program Director",
+                    "bio": "Sandy became a Managing Partner at Barlow Research in 2020. She is responsible for the ongoing development and management of the Small Business Banking Program. Sandy has over 15 years of experience studying small business banking behaviors and working to support our clients’ initiatives with the Voice of the Small Business customer. In addition, she has extensive experience with custom research in the small business and middle market business segments. Sandy also serves as the Treasurer of the company. Sandy received her Bachelor's of Science in Psychology from the University of Wisconsin-Superior and her Master's of Science in Applied Psychology at the University of Wisconsin-Stout. In her free time, she enjoys spending time with her family, listening to live music and traveling."
+                }
+            ]
+        },
+        {
+            "id": "106",
+            "title": "Networking Break",
+            "time": "10:15am",
+            "description": "",
+            "assets": "",
+            "speakers": [
+                {
+                    "name": "",
+                    "photo": "",
+                    "company": "",
+                    "title": "",
+                    "bio": ""
+                }
+            ]
+        },
+        {
+            "id": "107",
+            "title": "Fueling Success: TD Bank and Autobooks Accelerate Small Business Receivables",
+            "time": "10:30 am",
+            "description": "From inception to its pivotal role in meeting the needs of small businesses, Jo Jagadish, Head of AMCB Digital Banking & Corporate Products and Services, and Autobooks' CEO Steve Roberts will share their learnings about executing TD's Online Accounting solution and how it has evolved to meet the needs of small businesses. Jo and Steve will also discuss how TD's latest Tap to Pay feature and seamless integration into TD's mobile banking platform will help small businesses get paid faster.",
+            "assets": "",
+            "speakers": [
+                {
+                    "name": "Steven (Steve) Robert",
+                    "photo": "https://www.barlowresearch.com/BusinessBankingConference_2024/images/presenters/SteveRobert-Square.png",
+                    "company": "Autobooks",
+                    "title": "Co-Founder and CEO",
+                    "bio": "Steve Robert is the co-founder and CEO of Autobooks, an integrated receivables platform for small businesses distributed through more than 1,000 financial institutions. Autobooks has enterprise agreements in place to embed its services within the leading digital/mobile banking service providers, such as Alkami, Bottomline, CSI, Jack Henry, FIS, NCR and Q2. As a Payment Service Provider (PSP) Autobooks bundles a merchant account with each SMBs’ checking account to easily send invoices, receive payments and automate reconciliation.<br><br> Prior to Autobooks, Steve was the technical co-founder and CTO at Billhighway, an integrated payment and accounting solution provider to large membership-based organizations, including unions and organized labor groups. Billhighway grew to support millions of users, processing billions in transactions before being acquired by TA Associates/BluePay in 2016. <br><br> Steve is an accredited investor and actively speaks and writes about business, technology, and entrepreneurship, and as a native Detroiter - is an advocate for promoting Detroit’s revitalization efforts. In 2012, he was invited to the White House to be part of the historic signing of the Jumpstart Our Business Startup Act (JOBS) by President Obama through his community involvement with Startup America. Steve was also recognized by Goldman Sachs as one of 100 Most Intriguing Entrepreneurs of 2021."
+                },
+                {
+                    "name": "Jo Jagadish",
+                    "photo": "https://www.barlowresearch.com/BusinessBankingConference_2024/images/presenters/JoJagadish-Square.png",
+                    "company": "TD Bank",
+                    "title": "Head of Digital Banking and Corporate Products and Services",
+                    "bio": "Jo Jagadish is the Head of Digital Banking and Corporate Products and Services at TD Bank. In this role, she is responsible for leading the north star vision, strategy, and execution of Digital and Mobile capabilities for the US Bank along with leading Commercial Bank Products (Cash Management, Trade Finance, Deposits) and Services.<br><br>  Prior to joining TD, Jo was Head of New Product Development and FinTech partnerships at JPMorgan Chase Commercial Banking where she led the strategy, development and commercialization of new treasury product capabilities such as JPMC's partnership with Bill.com to deliver Cashflow360 among others. She also ran the Treasury product investment strategy for the Commercial Bank.<br><br>  Prior to JPMorgan Chase, Jo led product and platform strategy for digital payments at Citibank. She implemented Apple Pay in the U.S. and later took on the role as the Global Product Manager for Apple Pay for Citi deploying the product in several global markets. She has spent her career in global financial firms in a variety of strategy, product and business intelligence roles.<br><br>  Jo was awarded American Bankers 'Most Powerful Women in Banking Top Team' award in 2021, New York's rising stars in Banking and Finance by Crain's NY in 2020 and was also a finalist in the Women in Payments Innovation award, 2020. She has an engineering degree in electronics and communications"
+                },
+                {
+                    "name": "Youa Yang",
+                    "photo": "https://www.barlowresearch.com/businessbankingconference_2024/images/presenters/YouaYang.png",
+                    "company": "Barlow Research Associates, Inc.",
+                    "title": "Managing Partner and COO",
+                    "bio": "Youa is a Managing Partner and Chief Operating Officer at Barlow Research. She provides leadership and general day-to-day management to the company’s teams. She is also responsible for leading, guiding and executing on the company’s vision and ensuring alignment with Barlow’s goals. With more than 20 years of market research experience, Youa aims to foster a growth-oriented and positive environment to continue Barlow’s gold standard in business banking research. Youa holds a B.A. from the University of Minnesota-Duluth and attended the University of Wisconsin, Stout. In her spare time, she enjoys spending time with her family and friends and traveling the world."
+                }
+            ]
+        },
+        {
+            "id": "108",
+            "title": "Key Criteria Diverse Business Owners Prioritize in Financial Partnerships",
+            "time": "11:20 am",
+            "description": "This panel session will explore what diverse business owners in the middle market focus on when selecting a financial partner, shedding light on their distinct preferences and priorities. In addition, we will delve into strategies for cultivating stronger relationships with diverse-owned businesses, ensuring their loyalty and satisfaction.",
+            "assets": "",
+            "speakers": [
+                {
+                    "name": "Cathy Callahan",
+                    "photo": "https://www.barlowresearch.com/BusinessBankingConference_2024/images/presenters/CathyCallahan-Square.png",
+                    "company": "Bank of America",
+                    "title": "Northeast Regional Executive Business Banking SVP",
+                    "bio": "Cathy Callahan, Business Banking Northeast Region Executive and Senior Vice President, is based in NJ and leads banking teams serving mid-sized privately held companies in all sectors from Maine to Delaware. She and her team provide a client experience that is local, digital and advisory in 15 markets and 9 states throughout the Northeast. They deliver a variety of integrated financial solutions, including treasury, credit, risk management, and wealth management, to help companies grow, prosper and invest for the future. <br><br> Cathy joined predecessor bank, FleetBank, in 2003 and has served in a variety of leadership roles. Most recently, she was New Jersey market executive for Global Commercial Banking. Previously, she has served as senior relationship manager, sales performance manager and risk partner in Global Commercial Banking, with coverage in the New York Metro, New Jersey and Pennsylvania markets. Prior to joining the bank, she held roles at Chase Manhattan Bank, UBS, SwissBank Corp and First Minneapolis. In addition, Cathy has had several entrepreneurial ventures.<br><br>  Cathy holds a BSFS from Georgetown University and an International Business Degree from Stichting Nijenrode, The Netherlands School of Business. Actively involved in her community, Cathy is chair of the Board of Trustees of her alma mater, St. Dominic Academy in Jersey City; a trustee of TriCounty Scholarship Fund; a member of the NJ Economic Recovery Advisory Board and Choose NJ; a member of the Harding Historical Society; and a friend of Harding Land Trust. Previously, she was actively involved as a volunteer with PDA Soccer club; Kent Place School in Summit, NJ; served as president of the Executive Board of St. Peter’s Prep Parent’s Association in Jersey City, NJ; as a Finance Committee member of her church; and as a member of the Maplewood, NJ Planning Board and Zoning Board of Adjustment."
+                },
+                {
+                    "name": "Shaunté Robinson",
+                    "photo": "https://www.barlowresearch.com/BusinessBankingConference_2024/images/presenters/ShaunteRobinson-Square.png",
+                    "company": "JPMorgan Chase",
+                    "title": "Executive Director, Commercial Bank Midwest Segment Head for Diverse Businesses",
+                    "bio": "Shaunté Robinson is an Executive Director in JPMorgan Chase’s Commercial Banking Division, and the Commercial Bank’s Midwest Segment Head for Diverse Businesses with over 18 years of experience in the Financial Services industry. Prior to joining JPMorgan Chase, she held various positions at Wells Fargo, primarily in the Global Banking division working with multinational corporations across a variety of industries.<br><br>  Over the past few years, JPMorgan Chase has made public commitments to support women- and diverse-owned businesses through their Diverse Businesses Banking Team. With these commitments, the firm has provided tailored resources, thought-leadership content, and partnered with external organizations vital to the economic success of their clients. Shaunté helps drive many of JPMorgan Chase’s innovative programs created to open opportunities and provide equitable access, including their firm’s Supplier Diversity Program where they spend over $3 Billion annually with certified businesses.<br><br>  Shaunté received both her Bachelor of Science in Business and Masters of Business Administration in Finance from Florida A&M University. She resides in the Chicagoland area, is involved in many community business organizations, charities and serves on the board of the Center for Disability and Elderly Law (CDEL)."
+                },
+                {
+                    "name": "Megan Seitchik",
+                    "photo": "https://www.barlowresearch.com/BusinessBankingConference_2024/images/presenters/MeganSeitchik.png",
+                    "company": "Barlow Research Associates, Inc.",
+                    "title": "Middle Market Program Director",
+                    "bio": "Megan joined Barlow Research Associates, Inc. in June 2022 as the Middle Market Program Director. She received her Bachelor’s in Psychology and Economics from Denison University and continued on to Wake Forest University for her Master’s degree in Psychology and The Graduate Center at City University of New York for her Ph.D. in Industrial/Organizational Psychology.Prior to joining Barlow Research, Megan was with J.P. Morgan Chase for 12 years and was the Director of Research and Market Intelligence for the Commercial Bank for 7 years. In her free time, Megan enjoys spending time with her family, traveling, and being outdoors."
+                }
+            ]
+        },
+        {
+            "id": "109",
+            "title": "Networking Lunch",
+            "time": "12:00pm",
+            "description": "",
+            "assets": "",
+            "speakers": [
+                {
+                    "name": "",
+                    "photo": "",
+                    "company": "",
+                    "title": "",
+                    "bio": ""
+                }
+            ]
+        },
+        {
+            "id": "110",
+            "title": "Vendor Hall",
+            "time": "1:00 pm",
+            "description": "",
+            "assets": "",
+            "speakers": [
+                {
+                    "name": "",
+                    "photo": "",
+                    "company": "",
+                    "title": "",
+                    "bio": ""
+                }
+            ]
+        },
+        {
+            "id": "111",
+            "title": "The Great Re-imagination: Preparing for an AI and Tech Powered Era for Humans",
+            "time": "1:30 pm",
+            "description": "This session will help audiences understand how the world is changing (from AI and technology to the rise of solopreneurship and global citizen trends), what it means for people and businesses, and to ultimately make the connection to the world of banking. Session will include practical AI applications and the strategic shifts necessary for banks to remain competitive and responsive to the needs of both small businesses and middle market customers.",
+            "assets": "",
+            "speakers": [
+                {
+                    "name": "Iliana Oris Valiente",
+                    "photo": "https://www.barlowresearch.com/BusinessBankingConference_2024/images/presenters/IlianaOrisValiente-square.png",
+                    "company": "Accenture Canada",
+                    "title": "Managing Director and Innovation Lead",
+                    "bio": "Iliana is an accomplished corporate executive, innovation and emerging tech pioneer, startup investor, respected board member, published author, and sought-after global public speaker. With a clear vision and unwavering determination, she is a thought leader on a mission to build a future humans want to live in.<br><br> Iliana is currently the Managing Director and Innovation Lead at Accenture Canada, working with senior executives and boards to support their strategic transformation journeys. She leads multi-disciplinary teams across design, data, and technology, focusing on emergent areas such as metaverse/blockchain/web3, sustainability, AI, and cross-<br><br> Iliana is widely recognized for her trailblazing contributions to the blockchain industry, having advised corporations, government leaders, regulators, and startups as a translator between the web2 and web3 worlds.<br><br> Her expertise and perspective have expanded, now encompassing overall technology and societal trends, particularly emphasizing the future of work, life, and human-centered approaches.<br><br> As a published author and frequent speaker at global conferences, Iliana has been featured in various media outlets, including television, radio, and print. Additionally, she’s an active board member at Sunnybrook Hospital, CPA Ontario, and DIACC and mentors startups through incubators such as CDL.<br><br> Iliana is a global citizen who speaks English, Russian, Spanish, and French and enjoys connecting dots (ideas and people). Through Iliana's unique life experiences and contributions, she has developed an ability to see the bigger picture and drive toward meaningful outcomes."
+                }
+            ]
+        },
+        {
+            "id": "112",
+            "title": "You Win with People",
+            "time": "2:30 pm",
+            "description": " 'You win with people' is a quote that comes from legendary Ohio State football coach Woody Hayes. We will dive into what it takes to build a successful organization, by focusing on the importance of caring about your people.",
+            "assets": "",
+            "speakers": [
+                {
+                    "name": "Devin Jordan",
+                    "photo": "https://www.barlowresearch.com/BusinessBankingConference_2024/images/presenters/DevinJordan-Square.png",
+                    "company": "THE Ohio State University; Beyond The Game Non-Profit Organization",
+                    "title": "Assistant Football Coach; President & Founder",
+                    "bio": "ABOUT: Devin Jordan is currently an assistant football coach for THE Ohio State University and an exclusive motivational speaker for THE Ohio State University Alumni Association. He is also the founder of Beyond The Game non-profit organization and has a passion of enriching the lives of young people and giving back to the community. He is a former student athlete at Massillon Washington High School and THE Ohio State University. <br><br> FOOTBALL BACKGROUND: Devin was a highly recruited football prospect coming out of Massillon Washington high school setting dozens of records that still stand today for the storied program. He was apart of 2 State finalist teams and he was named 1st team All-Ohio in 2000 & 2001 while being named captain. In 2016, Devin was inducted into the Stark County football Hall of Fame. He received an athletic scholarship to play at THE Ohio State University where he was a part of 3 Big Ten Championship Teams and 2 teams that made it to the National Championship game and has 4 victories over The Team Up North (Michigan). He had dreams and the talent to make it to the NFL. One day, however, that dream was cut short due to injury, which lead him into coaching college football. He has been a college football coach for 15 years, coaching 11 All-Americans, 8 NFL players and 5 other professional football players. This year he coached Marvin Harrison Jr. who was named college football’s best Wide Receiver! <br><br> COMMUNITY BACKGROUND: In March of 2014, Devin founded the organization Beyond The Game which to this date has mentored over 15,000 kids, donated over $100,000 in school supplies, food and clothes to families and provided over 4,000 kids in the state of Ohio a free summer camp.Some of Beyond The Games key programs include: Guys With Ties- The 3rd grade groups motto is “Look Good, Feel Good, Do good”. This program has been featured Multiple times in the Canton repository, Cleveland’s Fox 8 news and WKYC channel 6. This program is currently in over 60 schools and will have over 3,000 boys in this program in the 2023-24 school year. The program has expanded to 7 states outside of Ohio this school year. Girls With Pearls- The 3rd grade groups motto is “Treasured, Valued, Empowered” and promotes healthy relationships and values to give young girls the skills to prepare for womanhood. This program will have over 500 members in it this year throughout the country. Friday Night Lights Summer Youth Football Camp- This camp for grades K-8 has grown to be a popular camp throughout the state of Ohio. This camp features current college athletes and NFL players. This year it was hosted at the NFL Hall of Fame Village fields with over 550 campers! Mental Manual- Devin Created a book called the “Mental Manual” that helps people, specifically student-athletes deal with mental health by positive self-reflection every day. Beyond The game has donated over 5,000 of these manuals to kids in Northeast Ohio. Funds were raised by an online fundraiser by Cleveland Browns Tight End Harrison Bryant. This story was featured on WKYC channel 6 news. <br><br>Devin has a strong passion for helping Student-athletes win on the field, but more importantly off of it."
+                }
+            ]
+        },
+        {
+            "id": "113",
+            "title": "Concluding Remarks",
+            "time": "3:00 pm",
+            "description": "",
+            "assets": "",
+            "speakers": [
+                {
+                    "name": "",
+                    "photo": "",
+                    "title": "",
+                    "bio": ""
+                }
+            ]
+        }
+    ],
+    "sponsors": [
+        {
+            "image": "https://www.barlowresearch.com/BusinessBankingConference_2024/images/sponsor-logos/9_spokes.png",
+            "url": "https://9spokes.com/"
+        },
+        {
+            "image": "https://www.barlowresearch.com/BusinessBankingConference_2024/images/sponsor-logos/autobooks-logo.png",
+            "url": "https://www.autobooks.co/"
+        },
+        {
+            "image": "https://www.barlowresearch.com/BusinessBankingConference_2024/images/sponsor-logos/DFT_Logo.png",
+            "url": "https://www.dragonflyft.com/"
+        },
+        {
+            "image": "https://www.barlowresearch.com/BusinessBankingConference_2024/images/sponsor-logos/IBISWorld.png",
+            "url": "https://www.ibisworld.com/"
+        },
+        {
+            "image": "https://www.barlowresearch.com/BusinessBankingConference_2024/images/sponsor-logos/relpro.png",
+            "url": "https://relpro.com/"
+        },
+        {
+            "image": "https://www.barlowresearch.com/BusinessBankingConference_2024/images/sponsor-logos/VerticalIQ.png",
+            "url": "https://verticaliq.com/"
+        }
+    ]
+}
