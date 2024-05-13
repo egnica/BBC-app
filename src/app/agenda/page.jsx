@@ -69,7 +69,6 @@ const Agenda = () => {
 																<p>{person.name}</p>
 															</div>
 														</Link>
-													
 													</>
 												)
 											);
@@ -77,7 +76,10 @@ const Agenda = () => {
 										
 
 									</div>
-									<div className="assets-button">Download Assets</div>
+									{
+									item.assets != "" && <a href={item.assets}>	<div className="assets-button">View Assets</div></a>
+									}
+									
 								</div>
 							)}
 						</div>
