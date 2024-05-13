@@ -15,9 +15,7 @@ export default function Home() {
 			<Link href='./speakers'>
 				<div className='layout-btn'>Speakers</div>
 			</Link>
-			<Link href='./assets'>
-				<div className='layout-btn'>Assets</div>
-			</Link>
+
 
 			<h3 style={{textAlign: "center"}}>Sponsors</h3>
 			<div className='spons-contain'>
