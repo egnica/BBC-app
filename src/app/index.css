@@ -64,6 +64,7 @@ a {
 .agenda-item:hover {
 	background-color: #414d8d;
 	color: aliceblue;
+	cursor: pointer;
 }
 .agenda-item:active {
 	background-color: #414d8d;
@@ -73,12 +74,17 @@ a {
 .reveal-contain {
 	background-color: rgb(213, 233, 250);
 	border-radius: 10px;
+	padding: 5px 5px 10px 5px;
+	margin: 10px;
 }
 .reveal-contain p {
 	padding: 5px 10px;
 }
 .speaker-pic-contain {
 	display: flex;
+	justify-content: center; 
+	align-items:center
+
 }
 .speaker-pic-info {
 	text-align: center;
@@ -89,9 +95,24 @@ a {
 .speaker-pic-info:hover {
 	background-color: #414d8d;
 	color: aliceblue;
+	
 }
 .speaker-pic-info img {
 	width: 60%;
+}
+.assets-button {
+	text-align: center;
+	padding: 10px;
+	margin:20px 10px;
+	border-radius: 10px;
+	background-color: #414d8d;
+	color: aliceblue;
+	border: 2px solid #171c33;
+}
+.assets-button:hover {
+	background-color: rgb(213, 233, 250);
+	color:#171c33 ;
+	cursor: pointer;
 }
 /*********************** SPEAKERS LIST PAGE */
 

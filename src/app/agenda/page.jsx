@@ -1,3 +1,4 @@
+/* eslint-disable @next/next/no-img-element */
 "use client";
 import BBC from "../bbcObject.json";
 import arrow from "../../images/down-arrow.svg";
@@ -47,28 +48,36 @@ const Agenda = () => {
 								</p>
 							</div>
 							{reveal == item.id && (
+								
 								<div className='reveal-contain'>
+								
 									{item.description != "" && <p>{item.description}</p>}
 									<div className='speaker-pic-contain'>
 										{item.speakers.map((person, index) => {
 											return (
 												person.name != "" && (
-													<Link
-														key={index}
-														href={{
-															pathname: "speaker",
-															query: {name: person.name, pageFrom: "agenda"},
-														}}
-													>
-														<div className='speaker-pic-info' key={index}>
-															<img alt={person.name} src={person.photo} />
-															<p>{person.name}</p>
-														</div>
-													</Link>
+													<>
+														<Link
+															key={index}
+															href={{
+																pathname: "speaker",
+																query: {name: person.name, pageFrom: "agenda"},
+															}}
+														>
+															<div className='speaker-pic-info' key={index}>
+																<img alt={person.name} src={person.photo} />
+																<p>{person.name}</p>
+															</div>
+														</Link>
+													
+													</>
 												)
 											);
 										})}
+										
+
 									</div>
+									<div className="assets-button">Download Assets</div>
 								</div>
 							)}
 						</div>
