@@ -21,9 +21,9 @@ a {
 .back-btn {
 	width: max-content;
 	padding: 0 20px;
-	border: 2px solid gainsboro;
+
 	border-radius: 10px;
-	background-color: #414d8d;
+	background-color: #112945;
 }
 .back-btn p {
 	color: aliceblue;
@@ -37,14 +37,14 @@ a {
 	text-align: center;
 	padding: 5%;
 	margin: 2% 10%;
-	border: 2px solid grey;
+
 	border-radius: 10px;
 	color: aliceblue;
-	background-color: #728aff;
+	background-color: #3687a0;
 	transition: all 0.2s ease-in-out;
 }
 .layout-btn:hover {
-	background-color: #414d8d;
+	background-color: #112945;
 	cursor: pointer;
 }
 .spons-contain {
@@ -60,9 +60,9 @@ a {
 
 .agenda-item {
 	display: flex;
-	border: 2px solid grey;
+
 	border-radius: 10px;
-	background-color: #b4c0fb;
+	background-color: #81c671d1;
 	padding: 2%;
 	margin: 2%;
 	transition: all 0.2s ease-in-out;
@@ -71,17 +71,17 @@ a {
 	margin: 20px 10px;
 }
 .agenda-item:hover {
-	background-color: #414d8d;
+	background-color: #0c1d30;
 	color: aliceblue;
 	cursor: pointer;
 }
 .agenda-item:active {
-	background-color: #414d8d;
+	background-color: #112945;
 	color: aliceblue;
 }
 
 .reveal-contain {
-	background-color: rgb(213, 233, 250);
+	background-color: #3687a052;
 	border-radius: 10px;
 	padding: 5px 5px 10px 5px;
 	margin: 10px;
@@ -101,7 +101,7 @@ a {
 	border-radius: 10px;
 }
 .speaker-pic-info:hover {
-	background-color: #414d8d;
+	background-color: #112945;
 	color: aliceblue;
 }
 .speaker-pic-info img {
@@ -112,9 +112,8 @@ a {
 	padding: 10px;
 	margin: 20px 10px;
 	border-radius: 10px;
-	background-color: #414d8d;
+	background-color: #112945;
 	color: aliceblue;
-	border: 2px solid #171c33;
 }
 .assets-button:hover {
 	background-color: rgb(213, 233, 250);

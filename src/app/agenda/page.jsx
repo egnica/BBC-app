@@ -48,9 +48,7 @@ const Agenda = () => {
 								</p>
 							</div>
 							{reveal == item.id && (
-								
 								<div className='reveal-contain'>
-								
 									{item.description != "" && <p>{item.description}</p>}
 									<div className='speaker-pic-contain'>
 										{item.speakers.map((person, index) => {
@@ -73,13 +71,12 @@ const Agenda = () => {
 												)
 											);
 										})}
-										
-
 									</div>
-									{
-									item.assets != "" && <a href={item.assets}>	<div className="assets-button">View Assets</div></a>
-									}
-									
+									{item.assets != "" && (
+										<a href={item.assets}>
+											<div className='assets-button'>View Slides</div>
+										</a>
+									)}
 								</div>
 							)}
 						</div>
