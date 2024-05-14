@@ -37,8 +37,9 @@ export default function Home() {
 					);
 				})}
 			</div>
-			<p>Questions?</p>
-			<div style={{margin: "10px 20px"}}>
+
+			<div style={{margin: " 10px 20px 40px 20px"}}>
+				<p>Questions?</p>
 				<a href='mailto:cgarcia@barlowresearch.com'>
 					<div className='layout-btn'>
 						<p>Send email</p>
