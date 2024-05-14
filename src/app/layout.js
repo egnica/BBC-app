@@ -8,9 +8,9 @@ export const metadata = {
 export default function RootLayout({children}) {
 	return (
 		<html lang='en'>
-			{/* <head>
+			<head>
 				<meta http-equiv='refresh' content='3600' />
-			</head> */}
+			</head>
 			<body>{children}</body>
 		</html>
 	);

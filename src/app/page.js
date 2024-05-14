@@ -1,13 +1,21 @@
 import Link from "next/link";
 import Image from "next/image";
 import BBC from "./bbcObject.json";
+import logo from "../images/Barlow_Black.png";
 
 export default function Home() {
 	return (
 		<>
-			<div className='header' style={{textAlign: "center"}}>
-				<h4 style={{margin: "0"}}>Barlow Research</h4>
-				<h2 style={{marginTop: "0"}}> 2024 Business Banking Conference</h2>
+			<div className='header' style={{textAlign: "center", lineHeight: "1.2"}}>
+				<a href='https://barlowresearch.com/index.php'>
+					<Image
+						alt='logo'
+						src={logo}
+						style={{maxWidth: "30%", height: "auto"}}
+					/>
+				</a>
+				<h4 style={{margin: "0"}}>Barlow Research&apos;s</h4>
+				<h2 style={{margin: "0"}}> 2024 Business Banking Conference</h2>
 			</div>
 
 			<Link href='./agenda'>

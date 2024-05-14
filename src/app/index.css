@@ -6,6 +6,11 @@
 	margin: 0 auto;
 	padding: 2%;
 }
+/* .roboto-bold {
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+} */
 body {
 	background-color: rgb(246, 246, 246);
 }
@@ -24,7 +29,9 @@ a {
 	color: aliceblue;
 }
 .header {
+	font-family: ;
 }
+
 /*********************** LAYOUT PAGE */
 .layout-btn {
 	text-align: center;
