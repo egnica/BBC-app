@@ -37,6 +37,14 @@ export default function Home() {
 					);
 				})}
 			</div>
+			<p>Questions?</p>
+			<div style={{margin: "10px 20px"}}>
+				<a href='mailto:cgarcia@barlowresearch.com'>
+					<div className='layout-btn'>
+						<p>Send email</p>
+					</div>
+				</a>
+			</div>
 		</>
 	);
 }
