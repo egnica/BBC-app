@@ -1,10 +1,20 @@
 import Link from "next/link";
+import Image from "next/image";
 import BBC from "./bbcObject.json";
+import cityPage from "../images/skyline.jpg";
 
 export default function Home() {
 	return (
 		<>
-			<div style={{textAlign: "center"}}>
+			<div className='header' style={{textAlign: "center"}}>
+				<Image
+					alt='city'
+					src={cityPage}
+					placeholder='blur'
+					quality={100}
+					style={{maxWidth: "100%", height: "auto"}}
+				/>
+
 				<h4 style={{margin: "0"}}>Barlow Research</h4>
 				<h2 style={{marginTop: "0"}}> 2024 Business Banking Conference</h2>
 			</div>
@@ -15,7 +25,6 @@ export default function Home() {
 			<Link href='./speakers'>
 				<div className='layout-btn'>Speakers</div>
 			</Link>
-
 
 			<h3 style={{textAlign: "center"}}>Sponsors</h3>
 			<div className='spons-contain'>
