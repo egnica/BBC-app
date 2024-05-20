@@ -24,7 +24,12 @@ export default function Home() {
 			<Link href='./speakers'>
 				<div className='layout-btn'>Speakers</div>
 			</Link>
-
+			<br />
+			<h3 style={{textAlign: "center"}}>WIFI</h3>
+			<h4 style={{textAlign: "center"}}>
+				Network Name: Vue Meetings <br></br> Password: Columbus95
+			</h4>
+			<br />
 			<h3 style={{textAlign: "center"}}>Sponsors</h3>
 			<div className='spons-contain'>
 				{BBC.sponsors.map((item, index) => {
